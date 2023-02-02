@@ -26,7 +26,7 @@
 </template>
 
 <script lang="ts" setup>
-const list = ['夷陵区', '西陵区', '伍家岗区、点军区', '猇亭区', '高新区', '']
+const list = ['夷陵区', '西陵区', '伍家岗区、点军区', '猇亭区', '高新区']
 </script>
 
 <style scoped lang="stylus">
