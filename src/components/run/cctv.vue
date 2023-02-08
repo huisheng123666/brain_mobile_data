@@ -1,7 +1,7 @@
 <template>
   <div class="cctv module-box">
     <h4 class="module-title">重大活动数字护航</h4>
-    <div class="videos" v-for="item in list" :key="item">
+    <div v-for="item in list" :key="item" class="videos">
       <h5>{{ item }}</h5>
       <div class="list">
         <div class="video watch-video">
